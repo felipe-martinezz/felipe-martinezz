@@ -4,6 +4,8 @@
 
 
 I'm Felipe, a Systems student and Game QA at Globant I ensure the quality and performance of gaming application. Passionate about tech and software development.
+
+Here are just some of my collection projects
 <!--
 **felipe-martinezz/felipe-martinezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
