@@ -1,4 +1,7 @@
-## Hi, i'm Felipe! 👋
+## Bienvenid@! 👋
+## Welcome! 👋
+## Bem-vindo! 👋
+
 
 I'm Felipe, a Systems student and Game QA at Globant I ensure the quality and performance of gaming application. Passionate about tech and software development.
 <!--
